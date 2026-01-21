@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Variables
-REPO_URL="https://<token>@github.com/paulahakeem/docker-abi"
-CLONE_DIR="/tmp/docker-abi"
+REPO_URL=""
+CLONE_DIR=""
 DOCKER_COMPOSE_TEMPLATE="docker-compose.yaml"
 DOCKER_COMPOSE_FILE="docker-compose.yaml"
 BRANCH_NAME="update-db-host"
